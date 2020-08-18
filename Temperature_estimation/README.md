@@ -1,11 +1,8 @@
-# 📚 DACON
+# 📚 공공 데이터 활용 온도 추정 AI 경진대회
 
-![dacon](https://github.com/Jihyun22/Jihyun22.github.io/blob/master/assets/images/dacon.png?raw=true)
+![dacon](https://github.com/Jihyun22/Dacon_workspace/blob/master/asset/temp.JPG?raw=true)
 
-데이콘 진행 대회 별 workspace 
+Temperature_estimation
 
-- 데이콘 서포터즈(1, 2기)
-- 공공 데이터 활용 온도 추정 AI 경진대회(주최 : AI프렌즈, 한국원자력연구원, 한국기계연구원, DACON)
-- 원자력발전소 상태 판단 경진대회(주최 : 한국수력원자력(주))
-- 음성 중첩 데이터 분류 AI 경진대회(주최 : DACON)
+- 데이터 다운로드 [링크](http://bit.ly/2ToOxvL)
 
